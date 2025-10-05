@@ -3,7 +3,10 @@
 This is a simple <b>Chat Application</b> built using <b>React</b>. <br>
 The project focuses on creating an interactive and visually appealing user interface for real-time chatting. <br>
 Currently, this version includes only the <b>frontend</b> part of the application. <br>
-![Uploading image.png…]()
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/2dc4b10b-ce17-409f-b839-a06817d7faff" />
+<img width="1140" height="669" alt="image" src="https://github.com/user-attachments/assets/96b94459-29a2-4153-a349-2a40515d3fed" />
+
+
 
 
 ---
